@@ -1,0 +1,10 @@
+ Volume in drive C is OS
+ Volume Serial Number is 4EE0-AF18
+
+ Directory of C:\Users\lucky\Desktop\pg
+
+11/03/2018  08:36 PM    <DIR>          .
+11/03/2018  08:36 PM    <DIR>          ..
+11/03/2018  08:36 PM                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  71,790,665,728 bytes free
